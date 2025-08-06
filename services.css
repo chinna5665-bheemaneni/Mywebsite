@@ -28,18 +28,6 @@ font-size:30px;
 {
 color:red;
 }
-
-.bor {
-      padding: 10px 20px;
-      font-size: 40px;
-      font-weight: bold;
-      text-align: center;
-      border: 6px solid;
-      border-radius: 20px;
-      border-color: red blue green orange;
-      width: fit-content;
-      margin: 10px auto;
-    }
 .bor1
 {
 border-style:solid;
@@ -91,3 +79,4 @@ font-size:20px;
 font-size:30px;
 color:1F7D53;
 }
+
