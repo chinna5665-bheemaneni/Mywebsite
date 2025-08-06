@@ -34,7 +34,7 @@ font-size:30px;
 .navbar .links a {
   margin-left: 50px;
   text-decoration: none;
-  color:black;
+  color:white;
   font-weight: bold;
   font-size:25px;
   perspective: 500px;
@@ -46,8 +46,9 @@ margin-top:40px;
 }
 .navbar .links a:hover
 {
-color:white;
+color:red;
 }
+
 
 
 
