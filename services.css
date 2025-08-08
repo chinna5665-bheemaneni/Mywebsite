@@ -28,14 +28,14 @@ font-size:30px;
 {
 color:red;
 }
-.bor1
+.border
 {
 border-style:solid;
 border-width: 4px;
 padding: 10px;
 width: fit-content;
 border-radius:20px;
-margin-left:70%;
+margin-left:50%;
   animation: a 6s linear infinite;
     }
 
@@ -68,6 +68,7 @@ font-size:20px;
 font-size:30px;
 color:1F7D53;
 }
+
 
 
 
