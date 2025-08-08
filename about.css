@@ -1,6 +1,6 @@
 .bg
 {
-background-image:url('coolbackgrounds-gradient-cucumber.png');
+background-image:url('background.jpg');
 background-size:cover;
 }
 .navbar {
@@ -58,6 +58,7 @@ padding:10px 20px;
 font-size:35px;
 border-radius:10px;
 }
+
 
 
 
